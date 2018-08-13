@@ -1,4 +1,4 @@
-package com.example.demo;
+package website.lucaswork.clipboardOcr;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
